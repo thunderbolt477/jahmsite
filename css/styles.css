@@ -2,14 +2,53 @@
   background-color: white;
   color:black;
   margin: 0;
-}
-
-
-h1{
-  margin: 0;
+    background-image: url("../images/Waves-North-Shore-Oahu-Hawaiian-Islands.jpg");
 }
 body {
   margin:0;
   padding:0;
   background-color: #458898;
 }
+
+h2{
+  font-size:2.5rem;
+}
+
+.big-heading{
+  text-align:center;
+  font-family: 'Karla', sans-serif;
+  font-weight:600;
+  padding-top:200px;
+  font-size:3.5rem;
+  line-height: 1.5;
+}
+
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+.profile-image{
+   width:50%;
+  margin:100px;
+
+}
+
+
+/* about section */
+#about{
+  /* background-color: #458998; */
+  text-align:center;
+}
+.about-heading{
+  font-size:2.5rem;
+}
+
+.p-about{
+  font-size:1.5rem;
+  padding:7% 15%;
+}
+
+/* fonts */
+/* font-family: 'Karla', sans-serif;
+font-family: 'Merriweather', serif; */
