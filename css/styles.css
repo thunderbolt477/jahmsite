@@ -1,11 +1,7 @@
 #title{
-  background-image:url("../images/Waves-North-Shore-Oahu-Hawaiian-Islands.jpg");
-  background-size: cover;
-  backgrouind-repeat: no-repeat;
-  background-position: ceneter;
-  color:white;
+  background-color: white;
+  color:black;
   margin: 0;
-  padding-bottom: 200px;
 }
 
 
@@ -13,5 +9,7 @@ h1{
   margin: 0;
 }
 body {
+  margin:0;
+  padding:0;
   background-color: #458898;
 }
